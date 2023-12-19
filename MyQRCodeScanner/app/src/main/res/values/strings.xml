@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyQRCodeScanner</string>
+    <string name="cancel" />
+    <string name="grant" />
+    <string name="we_need_permission" />
+    <string name="grant_permissions" />
+</resources>
